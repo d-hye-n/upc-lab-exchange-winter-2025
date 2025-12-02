@@ -53,6 +53,7 @@ This section outlines the specific research area and daily activities carried ou
 * [비자 관련 정보 링크]
 * [항공편 정보/자료]
 * [기타 유용한 정보]
+* [교통|https://timetable4air.tistory.com/1677]
 
 ---
 
