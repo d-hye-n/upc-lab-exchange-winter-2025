@@ -5,16 +5,15 @@ Records and materials for the 4-week, experience-based learning program (Lab Exc
 
 ## 🌟 Program Overview
 
-[cite_start]This repository documents my participation in the **2025-Winter Overseas Internship (Lab Exchange) Program**[cite: 2, 3].
+This repository documents my participation in the **2025-Winter Overseas Internship (Lab Exchange) Program**.
 
 | Detail | Information |
 | :--- | :--- |
-| **Program Name (Korean)** | [cite_start]2025-동계방학 해외인턴(랩실교류) 프로그램 [cite: 2] |
-| **Host University** | [cite_start]China University of Petroleum (Huadong), Qingdao, China [cite: 3, 8] |
-| **Duration** | [cite_start]4 Weeks: Dec 29, 2025 (Mon) – Jan 23, 2026 (Fri) [cite: 3] |
-| **My Department** | [cite_start][기계공학부 또는 메카트로닉스공학부 선택] [cite: 3] |
-| **Focus** | [cite_start]Experience-based Learning, Lab Activities [cite: 1, 3] |
-| **Credit Type** | [cite_start]Pass/Fail (S/U Grade) and counts as Seasonal Semester credit [cite: 15, 16] |
+| **Program Name (Korean)** | 2025-동계방학 해외인턴(랩실교류) 프로그램 |
+| **Host University** | China University of Petroleum (Huadong), Qingdao, China |
+| **Duration** | 4 Weeks: Dec 29, 2025 (Mon) – Jan 23, 2026 (Fri) |
+| **My Department** | 기계공학부/컴퓨터공학부 (M.E./C.S.) |
+| **Focus** | Experience-based Learning, Lab Activities |
 
 ---
 
@@ -42,15 +41,15 @@ This section outlines the specific research area and daily activities carried ou
 
 ## 📑 Academic Credit & Documents
 
-* [cite_start]**Credit Recognition:** The program's credit will be recognized as an experience-based learning course grade during the **Summer Semester of 2025**[cite: 11, 15].
-* [cite_start]**Grade Conversion Period:** Credit conversion is scheduled for June 2026[cite: 13].
-* [cite_start]**Required Documentation for Credit:** Documentation needed for credit conversion includes class materials, transcripts, and a final report[cite: 12].
+* **Credit Recognition:** The program's credit will be recognized as an experience-based learning course grade during the **Summer Semester of 2025**.
+* **Grade Conversion Period:** Credit conversion is scheduled for June 2026.
+* **Required Documentation for Credit:** Documentation needed for credit conversion includes class materials, transcripts, and a final report.
 
 ---
 
 ## 🔗 Useful Links & Resources
 
-* [cite_start]China University of Petroleum (UPC) Official Website: http://cie.upc.edu.cn [cite: 11]
+* China University of Petroleum (UPC) Official Website: http://cie.upc.edu.cn
 * [비자 관련 정보 링크]
 * [항공편 정보/자료]
 * [기타 유용한 정보]
