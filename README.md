@@ -41,7 +41,7 @@ This section outlines the specific research area and daily activities carried ou
 
 ## 📑 Academic Credit & Documents
 
-* **Credit Recognition:** The program's credit will be recognized as an experience-based learning course grade during the **Summer Semester of 2025**.
+* **Credit Recognition:** The program's credit will be recognized as an experience-based learning course grade during the **Summer Semester of 2026**.
 * **Grade Conversion Period:** Credit conversion is scheduled for June 2026.
 * **Required Documentation for Credit:** Documentation needed for credit conversion includes class materials, transcripts, and a final report.
 
