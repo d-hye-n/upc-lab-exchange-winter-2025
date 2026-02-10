@@ -26,6 +26,7 @@ This section outlines the specific research area and daily activities carried ou
 * **Key Skills/Knowledge Gained:**
     * [습득한 기술 1]
     * [습득한 기술 2]
+    * [습득한 기술 3]
 
 ### Weekly Log & Reports
 
